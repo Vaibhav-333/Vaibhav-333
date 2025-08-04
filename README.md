@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;IIT+Patna+Student+%7C+Research+Enthusiast;Transforming+Data+into+Intelligence;Building+the+Future+with+AI)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;IIT+Patna+%7C+Research+Enthusiast;Transforming+Data+into+Intelligence;Building+the+Future+with+AI)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
