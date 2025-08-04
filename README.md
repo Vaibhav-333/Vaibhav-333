@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;IIT+Patna+%7C+Research+Enthusiast;Transforming+Data+into+Intelligence;Building+the+Future+with+AI)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;IIT+Patna+%7C+Data+Enthusiast;Transforming+Data+into+Intelligence;Building+the+Future+with+AI)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
@@ -22,11 +22,11 @@
 
 🎓 **IIT Patna** passionate about leveraging AI/ML to solve real-world problems
 
-🔬 **Research Focus**: Generative AI, Computer Vision, NLP, and Statistical Modeling
+🔬 **Work of Field**: Generative AI, Computer Vision, NLP, and Data Analytics 
 
 🏆 **Achievements**: NTSE Scholar, ANTHE Topper, Published Researcher
 
-💼 **Industry Experience**: SME @ Chegg, Intern @ Heleum, Technical Writer @ Coursera
+💼 **Industry Experience**: SME @ Chegg, Intern @ Heleum, Content Analyst @ Coursera
 
 🌱 **Currently Exploring**: Large Language Models, MLOps, and Advanced Deep Learning
 
@@ -43,7 +43,6 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 Machine Learning & AI
