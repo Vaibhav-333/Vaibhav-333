@@ -24,7 +24,7 @@
 
 🔬 **Work of Field**: Generative AI, Computer Vision, NLP, and Data Analytics 
 
-🏆 **Achievements**: NTSE Scholar, ANTHE Topper, Published Researcher
+🏆 **Achievements**: NTSE Scholar, ANTHE Topper
 
 💼 **Industry Experience**: SME @ Chegg, Intern @ Heleum, Content Analyst @ Coursera
 
