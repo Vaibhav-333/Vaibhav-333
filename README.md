@@ -20,7 +20,7 @@
 
 <img align="right" alt="Data Science GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-🎓 **IIT Patna Student** passionate about leveraging AI/ML to solve real-world problems
+🎓 **IIT Patna** passionate about leveraging AI/ML to solve real-world problems
 
 🔬 **Research Focus**: Generative AI, Computer Vision, NLP, and Statistical Modeling
 
@@ -92,7 +92,7 @@
 - Model interpretability with SHAP values
 - **Tech**: Python, Scikit-learn, XGBoost
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/fraud-detector)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Credit-Card-Fraud-Detection)
 
 </td>
 <td width="50%">
@@ -103,7 +103,7 @@
 - Automated model retraining and deployment
 - **Tech**: Python, Flask, MongoDB, Docker
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/cement-strength-predictor)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Cement-Strength-Prediction)
 
 </td>
 </tr>
@@ -121,7 +121,7 @@
 - Real-time emotion classification
 - **Tech**: Python, Librosa, TensorFlow, LSTM
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/speech-emotion-recognition)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Speech-Emotion-Recognition)
 
 </td>
 <td width="50%">
@@ -132,7 +132,7 @@
 - Multi-modal capabilities (text, images)
 - **Tech**: Python, Telegram API, Gemini AI
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/telegram-ai-bot)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Telegram-bot-Project)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@
 - OpenCV integration for live video processing
 - **Tech**: Python, OpenCV, TensorFlow, CNN
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/sign-lang-detector)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Sign-Language-Detection)
 
 </td>
 <td width="50%">
@@ -161,7 +161,7 @@
 - Database integration for attendance tracking
 - **Tech**: Python, OpenCV, Streamlit, Face Recognition
 
-[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/attendance-system)
+[![Repo](https://img.shields.io/badge/View-Repository-2196F3?style=for-the-badge&logo=github)](https://github.com/Vaibhav-333/Vision-based-Attendance-System)
 
 </td>
 </tr>
